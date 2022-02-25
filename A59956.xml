@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The universality of the light which shines in darkness asserted, and the notions &amp; opinions of Jeremiah Ives (divulged the 24th of the 2d moneth, 1674, in the market place at Crayden in the county of Surrey) detected &amp;c. written and published ... by William Shewen.</title>
+            <author>Shewen, William, 1631?-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59956</idno>
+            <idno type="STC">Wing S3426</idno>
+            <idno type="STC">ESTC R21692</idno>
+            <idno type="EEBO-CITATION">12568018</idno>
+            <idno type="OCLC">ocm 12568018</idno>
+            <idno type="VID">63394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63394)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 703:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The universality of the light which shines in darkness asserted, and the notions &amp; opinions of Jeremiah Ives (divulged the 24th of the 2d moneth, 1674, in the market place at Crayden in the county of Surrey) detected &amp;c. written and published ... by William Shewen.</title>
+                  <author>Shewen, William, 1631?-1695.</author>
+                  <author>Stubbs, John, 1618?-1674.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Added commentary (p. 27-28) signed: J.S. [i.e. John Stubbs?]</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ives, Jeremiah, fl. 1653-1674.</term>
+               <term>Resurrection.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63394:1"/>
+            <pb facs="tcp:63394:1" rendition="simple:additions"/>
+            <p>THE UNIVERSALITY OF THE LIGHT Which ſhines in Darkneſs ASSERTED, AND THE Notions &amp; Opinions OF JEREMIAH IVES (Divulged the 24th of the 2d Moneth, 1674. in the <hi>Market-Place</hi> at <hi>Crayden</hi> in the <hi>County</hi> of <hi>Surrey</hi>) DETECTED &amp;c.</p>
+            <p>Written and Publiſhed for the Information of all that deſire to know the Way of Truth, and to walk in it.</p>
+            <p>By <hi>William Shewen.</hi>
+            </p>
+            <q>
+               <p>He taketh the Wiſe in their own Craftineſs, and the Counſel of the froward is carried head-long; They meet with Darkneſs in the day time, and grope in the Noon-day as in the Night,
+<bibl>
+                     <hi>Job 5<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>13, 14.</hi>
+                  </bibl>
+               </p>
+               <p>This is the Condemnation, that Light is come into the World, and men love darkneſs rather becauſe their deeds are evil,
+<bibl>
+                     <hi>John 3.19.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>Printed in the Year, 1674.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:63394:2"/>
+            <pb n="3" facs="tcp:63394:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>FRIEND,</salute>
+            </opener>
+            <p>I <hi>Being preſent, and noting theſe Opinions of</hi> Jeremiah Ives, <hi>after ſome time I ſent the following Letter, with a Copy of them incloſed to him, which I underſtand he received with his own Hand; and having received no Line from him, to ſignifie whether he at the ſecond View, or more mature Deli<g ref="char:EOLhyphen"/>beration, will diſown any of them, I have now diſcharged my Mind in a brief Anſwer to them, not being Conſcious in my ſelf that I have wronged him in a Word: I am not doubt<g ref="char:EOLhyphen"/>ful, as thou readeſt in an Even Impartial Spirit, and in a Mind void of Prejudice, but that thou mayſt reap Pro<g ref="char:EOLhyphen"/>fit hereby. So commending thee to the</hi> Grace, Love <hi>and</hi> Light of God, <hi>which is able to teach thee to profit, and pre<g ref="char:EOLhyphen"/>ſerve thee from Evil preſent and to come; in a Meaſure of it I remain thy Friend,</hi>
+            </p>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+         <div type="author_to_Jeremiah_Ives">
+            <pb n="4" facs="tcp:63394:3"/>
+            <opener>
+               <salute>Jeremiah Ives,</salute>
+            </opener>
+            <p>I Here-with ſend thee ſome of thy Notions or Opi<g ref="char:EOLhyphen"/>nions; My End in ſo doing is two-fold, <hi>Firſt,</hi> That thou mayſt take a ſecond view of thy Notions and Con<g ref="char:EOLhyphen"/>ceits, and ſee whether I have noted them right, before I communicate them further. And <hi>Secondly,</hi> If thou ſtandſt by them, I have ſomething in my Mind to com<g ref="char:EOLhyphen"/>mit to Paper concerning them, in order to ſhew thee, if poſſible, thy Darkneſs and ignorance in the Things of God, though thou haſt been a long Profeſſor and preten<g ref="char:EOLhyphen"/>ded Miniſter of them: And indeed thou didſt behave thy ſelf more like a cunning Sophiſter, with cra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty Sleights to gain upon the Ignorant at that time, then like a Grave Conſcientious Diſputer for the Principles of the <hi>Chriſtian</hi> Religion: And whether thou leaneſt or truſteſt more up<g ref="char:EOLhyphen"/>on thy Acquired Cunning, and Artificial Reaſoning in thy Diſputes, and other thy pretended Services for God and the Good of People, then upon the immediate Aſ<g ref="char:EOLhyphen"/>ſiſtance, Guidance and Motion of the Spirit of God, I do deſire thee ſeriouſly to conſider, and leave it to his Witneſs in thy own Conſcience to anſwer. The Things of God are very weighty, and ought to be ſpoaken of and medled with by a bridled Tongue, and clean Hands; and in a weighty and ſerious Spirit, which is ſeaſoned with Grace &amp; Wiſdom, and enabled to divide the Word aright; which Word is compared to Milk, Strong Meat, Bread, a Hammer, Fire, Sword, &amp;c. Now he that pro<g ref="char:EOLhyphen"/>feſſeth himſelf a Miniſter of Chriſt Jeſus, and is not ſea<g ref="char:EOLhyphen"/>ſoned and endued with thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wiſdom to divide this Word aright, deceives himſelf and others. Conſider thy Stan<g ref="char:EOLhyphen"/>ding and Work, thy latter Day approacheth, leſt the Sun
+<pb n="5" facs="tcp:63394:3"/>ſet upon thee, or the Spirit of God leave ſtriving with thee, and thy Candle be put out, and thy Day be turn<g ref="char:EOLhyphen"/>ed into Darkneſs over thee. This is a Warning in Love to thee, from one who believes the Principles of the true <hi>Chriſtian</hi> Religion, profeſſed by theſe in Scorn call'd <hi>Qua<g ref="char:EOLhyphen"/>hers,</hi> and loves all that walks in them, and lives according to them, which Principle and People I have known thee to be an Oppoſer of this 15, or 16. Years; but the God whom they Fear and Serve, hath hitherto blaſted thy En<g ref="char:EOLhyphen"/>deavours, together with all the reſt of the Champions of Myſtery <hi>Babylon,</hi> and hath cauſed the Knowledge of his precious Truth to encreaſe, and hath eſtabliſhed many Thouſands in it, and furniſhed them with Strength and Wiſdom to contend for that one Faith which was once delivered to the Saints; which Faith purifies the Heart, and gives Victory over the World; which Faith, and the Work of it, is much wanting among all the Sects in <hi>Chriſtendom,</hi> though they have made to themſelves many Faiths, every one contending for the Work of their own Hands, and walking in the Light of their own Sparks, &amp; in the End lie down in Sorrow; out of which Eſtate the Lord hath redeemed many, and his Hand is ſtretched out ſtill to redeem and deliver more; which is alſo the earneſt Deſire and Expectation of him, who deſires the Tempo<g ref="char:EOLhyphen"/>ral and Eternal Good and Welfare of all Mankind, and remains thy Friend,</p>
+            <closer>
+               <dateline>
+                  <hi>Southwark,</hi> 
+                  <date>the 5th of the 3d Moneth, 1674.</date>
+               </dateline>
+               <signed>William Shewen.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="6" facs="tcp:63394:4"/>
+            <head>Some of the Opinions of <hi>Jeremiah Ives,</hi> divul<g ref="char:EOLhyphen"/>ged in the Market-Place at <hi>Crayden</hi> in the County of <hi>Surrey,</hi> the 24th of the 2d Moneth, 1674.</head>
+            <p>THe ſame-Body that is now the Habitation of the Soul and Spirit, ſhall riſe again, and enter with the Soul united, into everlaſting Joy or Torment.</p>
+            <p>It may be in the great Day of Judgment God may receive the <hi>Heathen</hi> to Glory; but it is more then they know whether he will or no: For thoſe People that have not the Scriptures among them in common, have no Knowledge of their future Eſtate.</p>
+            <p>All the Light in men could never teach them, diſcover or re<g ref="char:EOLhyphen"/>veal unto them, <hi>That Chriſt was born of a Virgin, and that he ſuffered, &amp;c.</hi> It may tell them, that Blaſphemy and Drunkenneſs, &amp;c. is Sin; but could never tell that God would ſave them.</p>
+            <p>I do deny that every man is lighted with the Light of Chriſt; for the Scripture ſaith, <hi>That many are in Darkneſs, and ſtumble, becauſe there is no Light in them.</hi>
+            </p>
+            <p>That the Light which lighteth every man is not the Light of Chriſt; yet it is a Divine Light.</p>
+            <p>There is a Natural Light in all men, which may ſhew them Sin, and this Natural Light is Divine; <hi>for every Gift of God is perfect;</hi> therefore Divine.</p>
+            <p>Men may ſin out all Senſe of Sin, and become Darkneſs, and have no Light in them.</p>
+            <p>The Sun may ſhine, and ſome men may ſhut their Eyes, and
+<pb n="7" facs="tcp:63394:4"/>will not ſee it; and ſome are blind, and cannot ſee it: Are they therefore enlightned by it? So likewiſe, &amp;c.</p>
+            <p>I will ſtick by the preſent Tranſlation of the New Teſtament, which was effected by Twenty or Thirty Learned Wiſe Men, by the King's Authority; and if I underſtood <hi>Greek</hi> never ſo well, it would be unmannerly to contradict them.</p>
+            <p>The Light that is come into the World was deſigned of God to enlighten every man; but Thouſands are not enlightened by it.</p>
+            <p>
+               <hi>George Whitehead</hi> and <hi>William Gibſon</hi> are not enligh<g ref="char:EOLhyphen"/>tened with the Light of Chriſt; though I grant, that there is a Light in every man, which is Divine, yet not the Light of Chriſt. ☞ I deny that the Light of God is one with the Light of Chriſt; the Father and Son are Relatives, but not one; the Light of the Father, Son and Spirit are Divine, but not one.</p>
+            <p>That which is Divine in God, becomes Natural when given to men.</p>
+            <p>Some in the World are without Chriſt; therefore ſome in the World are without the Light of Chriſt.</p>
+            <p>
+               <hi>I noted theſe at the Time and Place aforeſaid in Short-Hand, and I know not that I have wronged thee; if thou judgeſt otherwiſe, I deſir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to hear from thee ſuddainly.</hi>
+            </p>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="8" facs="tcp:63394:5"/>
+            <head>THE UNIVERSALITY OF THE LIGHT ASSERTED AND THE Notions and Opinions OF <hi>JEREMIAH IVES</hi> DETECTED, &amp;c.</head>
+            <div type="response">
+               <p>Opinion, <hi>THe ſame Body that is now the Habitation of the Soul and Spirit, ſhall riſe again, and enter with the Soul united into E<g ref="char:EOLhyphen"/>verlaſting Joy or Torment.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> The Doctrine of the Reſurrection of the Juſt and Unjuſt in the Day of Judgment, and their future Eſtate in Joy or Torment, was alwayes aſſerted by us in Scorn called <hi>Qua<g ref="char:EOLhyphen"/>kers;</hi> though wickedly inſinuated and divulged to the contrary by our Oppoſers: And this whole Nation may be convinced by our
+<pb n="9" facs="tcp:63394:5"/>Conſcientious Suffering for bearing witneſs to the Truth we have received, that we believe a Future Eſtate: Elſe, why ſhould we ſuffer to keep our Conſciences void of Offence? If we were of the number of thoſe, then might we ſay, Let's eat and drink, and take our fill of Pleaſure in the things of this World to day, for to morrow we ſhall dye; And let us run down with the Stream of the Times we live in, and be Men Pleaſers, and ſo preſerve our ſelves from Suffering: But our Converſation hath not been on this man<g ref="char:EOLhyphen"/>ner, but quite the contrary; and impartial People may ſee, that it is great Ignorance, if not Wickedneſs and Emnity imour Ene<g ref="char:EOLhyphen"/>mies, both Profeſſors &amp; Prophane, to endeavour to father and faſten ſuch a Doctrine upon us: But we pitty their Blindneſs, knowing that it is the Work of that old Adverſary, the Devil (which rules in the Hearts of the Children of Diſobedience) on purpoſe to make us odious and hateful to the People, who have a groſs Tra<g ref="char:EOLhyphen"/>ditional Faith concerning the Reſurrection, as of other Truths of the Goſpel of our Lord and Saviour Jeſus Chriſt.</p>
+               <p>Now the Myſtery of Godlineſs is great, and the Myſtery of Iniquity is great alſo; and they are reveal'd to the Babes and Suck<g ref="char:EOLhyphen"/>lings, and hid from the Wiſe and Prudent of this World, the Wit and Cunning of men finds it not out, neither can the Wiſdom of the World comprehend it; the Buſie, High-minded, Puffed up, Contentious <hi>Corinthians</hi> would be prying into things not made known to them by the Spirit of the Lord; but <hi>Paul,</hi> the aged, dealt wiſely and gravely with them, giving them many ſharp Re<g ref="char:EOLhyphen"/>proofs for their high Conceits; telling them,
+<note place="margin">1 <hi>Cor.</hi> 4.3, 18.</note> He could not ſpeak to them as unto Spiritual Men, but as unto Carnal; and could not miniſter Strong Meat to them, but Milk; having Envyings, Strife and Diviſions among them; he concludes they were Carnal, and walkt as men, wiſe and puft up in their own conceits: But ſaith he to them, <hi>If any among you ſeem to be wiſe in this World, let him be a Fool that he may be wiſe, for the Wiſdom of this World is Fooliſhneſs with God, &amp;c.</hi> 1 Cor. 3. And in moſt of his Epiſtle he reprehends them for their Failings and Errors.</p>
+               <p>Now ſome among them broached this Error alſo, <hi>That there was no Reſurrection of the Dead:</hi> Many weighty Arguments he urges to
+<pb n="10" facs="tcp:63394:6"/>convince them of their groſs Ignorance (1 Cor. 15.) <hi>If there be no Reſurrection of the Dead, then is not Chriſt riſen;</hi> ſo on to the 19th verſe, where he alſo ſaith, <hi>If in this Life only we have Hope, we are of all men moſt miſerable, &amp;c. For ſince by Man came Death, ſo by Man came alſo the Reſurrection: In</hi> Adam <hi>all dye, in Chriſt ſhall all be made alive</hi> (he that reads let him underſtand) Some alſo among them might, after they were convinc'd by his Ar<g ref="char:EOLhyphen"/>guments, enquire, how the Dead were raiſed, and with what Body come they forth? To ſuch he ſaith, <hi>O Fool, that which thou ſoweſt is not quickened except it dye; and that which thou ſoweſt, thou ſow<g ref="char:EOLhyphen"/>eſt not that Body that ſhall be, &amp;c.</hi> to the end of the Chapter.</p>
+               <p>And now, if the curious Enquirers of this Age would know fur<g ref="char:EOLhyphen"/>ther, and preſume above what is written out of the Senſe and Knowledge of the Holy Spirit, which moved Holy Men to write, they are to be anſwered with Judgment and ſharp Reproof; for the puffed up Spirit and buſie Mind, which aſpires to know much before-hand, leads men to neglect the doing that good which they already know; therefore it was very well ſaid by <hi>Geo. Whitchead,</hi> (when the Diſpute was like to continue about the Reſurrection) That it would be more profitable and neceſſary for People to hear a Diſcourſe that may tend to inform them, how they may be fitted and prepared to be one of that number which ſhall riſe in the Re<g ref="char:EOLhyphen"/>ſurrection to enjoy Everlaſting Felicity, and to avoid the contrary; and not at preſent to contend about the <hi>Sameneſs</hi> of the Body that ſhall riſe, and what Matter and Form it ſhall have, and how and when the Soul and Body ſhall meet, and be united, and how they ſhall be entertained in Heaven, &amp;c. About theſe things the vain Thoughts and Imaginations of men are many; and ſome that count themſelves able to teach others, are as ignorant of the Reſurrection as <hi>Nicodemus</hi> was of the New Birth: And this buſie Mind, and un<g ref="char:EOLhyphen"/>ſubjected Spirit, which learns not at the Feet of Jeſus, has great Conceits and Imaginations what God hath done of old, in Genera<g ref="char:EOLhyphen"/>tions paſt, and what he is able to do Thouſands of Years to come; but is ignorant and unacquainted with his Power at preſent, be<g ref="char:EOLhyphen"/>lieves little of his Power and Ability in their own Particulars in this preſent time, wherein they are to know him by his Mighty Power to raiſe them out of the Grave of Sin, and give them Victory
+<pb n="11" facs="tcp:63394:6"/>over it, and ſo to witneſs their part in the firſt Reſurrection: This is of more abſolute Neceſſity then to enquire, what manner of Bo<g ref="char:EOLhyphen"/>dies God will raiſe in the Laſt Day, and how he will provide and entertain the Soul and Body in Heaven when time ſhall be no more.</p>
+               <p>They that know God do believe in him, and can truſt him, and do reſign up their Bodies, Souls and Spirits, into his Hand in this World, and in that which is to come alſo; and have no doubt but he will provide well for them, if they perſevere in well doing to the end.</p>
+               <p>Opinion. <hi>It may be in the great Day of Judgment God may receive the</hi> Heathen <hi>to Glory; but it is more then they know whether he will or no: For thoſe People that have not the Scrip<g ref="char:EOLhyphen"/>tures among them in common, have no Knowledge of their fu<g ref="char:EOLhyphen"/>ture Eſtate.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> What God will do with the <hi>Heathen,</hi> it ſeems thou knoweſt not, but art in thy Thoughts, or may bees about it: They that walk in the Light, in which God dwells, know more of his Mind; However, thou mayſt read in the Holy Scriptures of God's Love and Care for the <hi>Heathen,</hi> in giving his Son a Cove<g ref="char:EOLhyphen"/>nant of Light to enlighten the <hi>Gentiles,</hi> and to be his Salvation to the Ends of the Earth; and that he will give him the <hi>Heathen</hi> for his Inheritance, and the ends of the Earth for his Poſſeſſion: And as ſome <hi>Heathen</hi> or <hi>Gentiles</hi> of old, who had not an outward Law, condemned the <hi>Jews</hi> by their Righteous Converſation, by vertue of God's inward Law in their Hearts; ſo many called <hi>Heathen</hi> now, will riſe up in Judgment againſt titular <hi>Chriſtians:</hi> And it will be more tollerable or eaſie in the Day of Judgment for ſuch <hi>Gentiles</hi> then for thoſe.</p>
+               <p>And thou ſayeſt, <hi>Where the Scriptures are not among People, they have no Knowledge of their future Eſcate.</hi>
+               </p>
+               <p>In this thou ſpeaks but a Conceit or Divination of thy own Brain, ſhewing thy Ignorance of the Fountain of all true Knowledge; for there was Knowledge among men neceſſary to Salvation before the Scripture was written; and from this Knowledge the Scriptures
+<pb n="12" facs="tcp:63394:7"/>proceeded; men were Holy before the Scriptures were written; men feared God before the Scriptures were written; and the Se<g ref="char:EOLhyphen"/>crets of God were with them that fear'd him; and ſurely they knew him before they feared him: And ſome talked and walked with God before the Scriptures were writ: <hi>Abraham</hi> was a Friend of God, and ſaw Chriſt's Day, and this is Eternal Life; ſo ſuch knew their future Eſtate; for Eternal Life includes a future Eſtate: And God is the ſame, and Chriſt is the ſame; and as he hath revea<g ref="char:EOLhyphen"/>led himſelf before the Scriptures were; ſo he is as able, ready, and willing to reveal himſelf, now the Scriptures are, and where the Scriptures are not, and when they ſhall be no more; for they were not from Eternity, neither will they continue to Eternity: And thoſe that had the Scriptures in former Ages, and wanted the true Knowledge of God, which was before the Scriptures were, knew neither the Scriptures nor the Power of God, nor their own Eſtates at that time, nor their future Eſtates, but were ignorant of both; yet could boaſt of the Scriptures, as thou and many do now, and call themſelves <hi>Children of Abraham;</hi> and ſay, that <hi>God was their Father;</hi> though he of whom the Scriptures teſtified (whom they knew not) told them, <hi>They were of their Father the Devil, whoſe Works they did.</hi>
+               </p>
+               <p>So thou and all may ſee, that the Scriptures did not give them a true Knowledge of their preſent nor future Eſtate, though 'tis ſaid, they read them every Sabbath Day, and were as converſant in them as many Sects in <hi>Chriſtendom</hi> are now, and thought to have Eter<g ref="char:EOLhyphen"/>nal Life in them, and cryed them up and magnified them, while they cryed him down, and crucified him of whom they bore wit<g ref="char:EOLhyphen"/>neſs, and from whom they proceeded.</p>
+               <p>So 'tis very evident, that the true Knowledge, Fear and Secrets of God were with men before the Scriptures were writ; and when they were writ, men that had them were void of the Underſtan<g ref="char:EOLhyphen"/>ding or true Knowledge of them: as it hath been, ſo it may be, and is now; men may talk much of the Scriptures with their Tongues, and carry the Bible in their Pockets, and yet the Devil may rule in their Hearts.</p>
+               <p>And People that have not the Scriptures, nor never heard of them, may be nearer the Kingdom of Heaven then ſome that have them; as ſome <hi>Heathen,</hi> who had not <hi>Moſes</hi>'s Law, did by Nature
+<pb n="13" facs="tcp:63394:7"/>the things contained in the Law, which was the Effect of the Law written in their Hearts, this hath been, is, and may be: For we ſay and affirm, That God affords to all men a Day of Viſitation, and puts them into a Poſſibility of being ſaved; elſe, how would he be clear when he judgeth?</p>
+               <p>Opinion. <hi>All the Light in men could never teach them, diſ<g ref="char:EOLhyphen"/>cover or reveal unto them,</hi> That Chriſt was born of a Vir<g ref="char:EOLhyphen"/>gin, and that he ſuffered, &amp;c. <hi>It may tell them, that Blaſ<g ref="char:EOLhyphen"/>phemy and Drankenneſs, &amp;c. is Sin; but could never tell that God would ſave them.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Theſe are Thoughts and Imaginations of thy own Head. and ſhew thy Ignorance and Unbelief of the Light of God and Chriſt in men, and the Operation of it in thoſe that do believe, love and walk in it (and indeed no other knows the Efficacious Pow<g ref="char:EOLhyphen"/>er and Vertue of it to their Salvation, though they may and ſhall to their Condemnation) for was it not the Light of God in men, that ſhewed them, that Chriſt was to be born of a Virgin, and that told ſome the very place, where alſo, long before the time; and why may not the ſame Light ſhew things that are paſt, as well as things to come? To whom this Light did not reveal him when he came, they could not know him, but took him to be the Carpenter's Son, and ſome ſaid one thing, and ſome another of him: though they had the written Prophecies in the Holy Scriptures concerning him; yet they were as ignorant of him (as he was the Chriſt of God) as the very <hi>Heathen</hi> that never ſaw the Scriptures; and Chriſt plainly told them, That <hi>they neither knew him nor his Father.</hi>
+               </p>
+               <p>And it was by the Light of God and Spirit of Revelation in that day, and not by the Scriptures, that any came to the true Know<g ref="char:EOLhyphen"/>ledge of him; Fleſh and Blood did not reveal him: Many that talked and walked, eat and drank with him, and ſaw his Mighty Works and Miracles, did not ſee him, nor know him, nor the Power of his Father, which wrought in him; And this the Holy Scriptures, whom we dearly own and honour in their Places, bear full witneſs to; and the ſame is now. He that can receive it, let him.</p>
+               <pb n="14" facs="tcp:63394:8"/>
+               <p>And the ſame Light which convinceth People that Blaſphemy and Drunkenneſs is Sin, is no leſs, nor no other, then the Spirit of Truth, which Chriſt promiſed to ſend, which ſhould convince the World of Sin, Righteouſneſs and Judgment; and this is the Con<g ref="char:EOLhyphen"/>demnation of the World, in whom this Light ſhineth, appeareth and convinceth, that they do not love this Light, nor believe in this Light, nor bring their Deeds unto it; ſo they never know it lead them to their Saviour, from whence it comes; and ſo know not that the Reproofs of a Friend are better then the Kiſſes of an Enemy; or that that which convinceth, reproveth, ſmiteth, woundeth and killeth, is the ſame, or one with him, which con<g ref="char:EOLhyphen"/>verteth, reformeth, healeth, bindeth up and maketh alive: So through Unbelief and Diſobedience man brings Deſtruction upon himſelf, and God and Chriſt is clear of the Blood of all Men.</p>
+               <p>Opinion. <hi>I do deny that every man is lighted with the Light of Chriſt: for the Scripture ſaith,</hi> That many are in Dark<g ref="char:EOLhyphen"/>neſs, and ſtumble, becauſe there is no Light in them.</p>
+               <p>
+                  <hi>Anſw.</hi> Thy Denyal or Unbelief is contrary to the Teſtimony of the Evangelical Apoſtle <hi>John,</hi> who ſaid, That <hi>Chriſt is the true Light, which lighteth every man coming into the World, Joh.</hi> 1.9. A plainer Proof, if Scripture will ſerve, need not be ſought for. Another like it is, <hi>The Grace of God which brings Salvation, hath appear'd to all men; the true</hi> Chriſtians <hi>were taught by it; others walked deſpightfully to the Spirit of Grace, and turned</hi> from <hi>it into W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntonneſs.</hi> Alſo, <hi>A Manife<g ref="char:EOLhyphen"/>ſtation of the Spirit is given to every man to profit withal;</hi> One Talent at leaſt is given to improve, though Thouſands anſwer not the End of the Lord, who is the Giver thereof: Life and Death, Good and Evil is ſet before all men; and the Lord is preſent and ready with his Wiſdom and Power, to enable men to chuſe Life and Good, and to eſchew Death and Evil.</p>
+               <p>But how men are ſaid to be Darkneſs, and to walk in it, not<g ref="char:EOLhyphen"/>withſtanding, the True Light ſhines in them, is a Myſtery to the cunning Wit of men, which cannot comprehend the Poſſibility thereof, and are ready to cry out, <hi>If all are lighted with the Light of Chriſt, which is in it ſelf a ſaving Light, then why are not all men ſaved? If all have a meaſure of this Light in them, how can
+<pb n="15" facs="tcp:63394:8"/>any be ſaid to be Darkneſs? And if this Light in it ſelf be ſufficient to lead to the true Teacher, what need hath Chriſt to ſend forth a Mi<g ref="char:EOLhyphen"/>niſtry? and what's the End of your Preaching, and Printing of Books, &amp;c. if all men have a Light ſufficient in them?</hi> This hath been the Cry of the Spirit of this World, which ſavours not the Things of God.</p>
+               <p>Now ſuch Miniſters which Chriſt ſent and ſends forth, were and are ſent to open the Eyes of the <hi>Gentiles,</hi> and to turn their Minds from the Darkneſs to the Light, and from the Power of Satan to the Power of God, that they might receive Forgiveneſs of Sin, and Inheritance among the Saints, &amp;c.</p>
+               <p>They had Eyes before, though ſhut; and Light before, though their Minds were not turned to it, nor exerciſed by it, but by the Darkneſs, and by the Power of Satan; and ſo walking in this Darkneſs, they ſtumbled; and Mankind being in this State, joyn<g ref="char:EOLhyphen"/>ed to the Power of Satan and to Darkneſs, is called Darkneſs, notwithſtanding the Light ſhines in it (as the holy Scriptures fully evidence.)</p>
+               <p>Now this Darkneſs and Power of Satan was and is inward, within People; and this Light and Power of God was alſo inward, &amp; with<g ref="char:EOLhyphen"/>in People: For it would be very abſurd and ridiculous to imagine, that Chriſt's Miniſters were ſent to turn the Minds of People from outward Darkneſs to an outward Light; the Darkneſs and Pow<g ref="char:EOLhyphen"/>er of Satan was ſpiritual and inward, and the Light and Power of God was ſpiritual and inward, and the pure Mind they were to ſtir up, was within People.</p>
+               <p>Now though they walked in Darkneſs, and ſat in the Region and Shadow of Death, and ſaw no Light, by Reaſon that the Eye was ſhut and the Mind turned another Way: though it was nigh, they did not ſee it, ſo as to have the Benefit of it, or to believe in it, becauſe the Clouds of Error, Ignorance and Unbelief, were ſo thick and groſs in them, that though the light ſhined ſo far in them, as to convince and reprove them for Evil; yet they could not com<g ref="char:EOLhyphen"/>prehend it, or believe in it as a Light, in that State; but rather ac<g ref="char:EOLhyphen"/>counted Light Darkneſs, and Darkneſs Light (as many in this Age do.)</p>
+               <p>Now when this Light ſhined out of Darkneſs, and diſperſed
+<pb n="16" facs="tcp:63394:9"/>the Clouds and groſs Fogs that were before their Underſtandings, by means of Chriſt's Miniſtry, then begun the Work of Regene<g ref="char:EOLhyphen"/>ration; then they became as new-born Babes, deſiring the ſincere Milk of the Word; then the Work of Chriſt's Miniſters was, as Fathers to cheriſh them and feed them with Food convenient, and as it were lead them by the Hand till they grew ſtrong Men, &amp;c. And to effect this, they travelled among them, from City to City and from one Country to another, to confirm them and eſtabliſh them in the Light, Power and holy Truth, or Goſpel of Chriſt Je<g ref="char:EOLhyphen"/>ſus, which their Minds were turned to.</p>
+               <p>And this is the Work and End of Chriſt's Miniſtry now, which we are made Partakers of; And this is the End we have in wri<g ref="char:EOLhyphen"/>ting, printing and preaching: for though all have one Talent at leaſt; yet Exhortation is needed, that Improvement may be made according to the Ability given; and that Men receive the Grace and Love that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s tendered, and make uſe of the Means given and ap<g ref="char:EOLhyphen"/>pointed of God to lead to Salvation: and this was, and is the Work of the Miniſtry, even to perſwade Men to be reconciled to God, who is Light, and dwells in the Light, and is not far from every one, as a Light ready to lead them out of the Paths of Darkneſs, though till their Minds are turned from the Darkneſs, to which they are joyned, and in which they walk and dwell, they cannot ſee him.</p>
+               <p>Opinion. <hi>That the Light which lighteth every man is not the Light of Chriſt; yet it is a Divine Light.</hi>
+               </p>
+               <p>This is a Piece of Ignorance and Contradiction not of the eaſt Magnitude: It is common with the Builders of <hi>Myſtery Babylon</hi> groſly to err and miſtake, and be confuſed in their Language [and the clamorous Woman pulls down her Houſe with her own hands] What! Grant that every man is lighted with a Divine Light, but not with the Light of Chriſt? How many ſorts of Divine Light are there? Is not the Light of Chriſt Divine? What thou mayſt form as a cunning Artificer, by way of Argument to prove this Nice, Carnal, Corrupt Diſtinction, will prove like a Caſtle built in the Air, or vain Imagination, and fall upon the Head of him that builds
+<pb n="17" facs="tcp:63394:9"/>it; For the whole Current of the Scriptures comprehends things under two Heads, Good and Evil, Light and Darkneſs, Life and Death, Heavenly and Earthly, Spiritual and Natural, Old and New, Holy and Polluted, Divine Nature, Sinful and Corrupt Nature, &amp;c. Now Divine Nature is the ſame with Divine Light, Holy, Heavenly, Pure and Spiritual: And it was by this Nature the <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> did thoſe things contained in the Law, &amp;c. they did them not by the corrupt Nature; for that leads all that are in it further into Tranſgreſſion, and Breach of all the Law of God; and as that is given way unto, razeth out and demoliſheth the Law in the Heart. And how <hi>J. I.</hi> can ſet forth a Divine, Holy, Heavenly, Spiritu<g ref="char:EOLhyphen"/>al Light, wherewith men are lighted, and ſhew that this Divine Light is not the Light of Chriſt, I judge is a Myſtery to himſelf unknown; for I cannot find, neither in the Scripture, nor among Holy Men, a Preſident for the like Doctrine; ſo for ought I know he may be called the Father of this Vain Conceit or Notion.</p>
+               <p>Opinion. <hi>There is a Natural Light in all men, which may ſhew them Sin, and this Natural Light is Divine;</hi> for every Gift of God is perfect; <hi>therefore Divine.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> This Conceit or Opinion differs not much from the former; only in this thou acknowledgeſt that this Light wherewith every man is lighted, is able to ſhew or convince men, that Sin is Sin: now what that is that makes manifeſt and convinceth of Sin, the Scriptures bear witne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in that of <hi>John,</hi> Chap. 16. <hi>That which convinceth the World of Sin, &amp;c. is the Saints Comforter, even the Spirit of Truth;</hi> it hath many Names in the Holy Scriptures, but is one thing: So this Light, which is Divine, Holy, Heavenly and Spiritual, is one with the Spirit of Truth in Nature and Ope<g ref="char:EOLhyphen"/>ration, and is the Gift of God to all men, though ſome rebel a<g ref="char:EOLhyphen"/>gainſt it; and hath Power in it, not only to ſhew and convince of Sin, but to deſtroy Sin, and convert to God thoſe that love its Ap<g ref="char:EOLhyphen"/>pearance and turn at its Reproof. I perceive thou haſt read, <hi>That every Gift of God is Perfect,</hi> and that the <hi>Light is the Gift of God,</hi> therefore Perfect and Divine; thou hadſt better know it ſo, and
+<pb n="18" facs="tcp:63394:10"/>prove it by the Experience of its Vertue and Operation in thy ſelf, then by a Syllogiſm; then thou mighteſt be a true Witneſs of its Divine Perfectio; till then however I will take thy Argument for as good a Proof as thou canſt give, that the Light is Perfect and Divine.</p>
+               <p>Opinion. <hi>Men may ſin out all Senſe of Sin, and become Darkneſs, and have no Light in them.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Men through long Cuſtom of ſinning may have their Hearts hardened to that Degree that they may be compared to a Stone; and to a Deaf Adder, which will not hear the Voice of the Charmer, &amp;c. And men may be ſo ignorant of the Law and Mind of God (even while they profeſs him) that they may think they do him good Service, while they are ſerving the Devil and doing his Work (yet there is Means of Redemption, and a Poſſibility of Deliverance appointed of God out of this State; and the ſto<g ref="char:EOLhyphen"/>ny Heart may be it be made ſoft, and become changed into a Heart of Fleſh, and the deaf Ear and Eye may be unſtopped, and the ignorant unſenſible ſpirit removed and done away) and this State is upon men while the Light ſhines in Darkneſs, which Darkneſs they are, and cannot comprehend it, &amp;c.</p>
+               <p>But now, after the Light comes to ſhine out of Darkneſs, and men come to receive it, and for a time to walk in it, and to be ſo enlightened by it as that they may in ſome meaſure know God, and Jeſus Chriſt, which he hath ſent, which is Eternal Life, and may taſte of the Power of the World to come, and witneſs a Tranſlati<g ref="char:EOLhyphen"/>on from Death to Life, and from Darkneſs to Light, and a clean<g ref="char:EOLhyphen"/>ſing from the Pollutions of the World, over which their Faith in Chriſt had given them Victory, and their Houſe may be ſwept and garniſhed, &amp;c. yet after all this, they may fall into a worſe Eſtate then that above mentioned, out of which they may never come to witneſs Redemption nor Deliverance; ſeeing after they knew God, they did not like to retain the Knowledge of him, nor to Glorifie him as God; And ſeeing they make ſhipwrack of Faith and a good Conſcience, and turn like the Dog and Swine to the Mire and Vomit again, and crucifie to themſelves the Son of God a<g ref="char:EOLhyphen"/>freſh, and for want of Watchfulneſs let ſeven worſe Devils enter,
+<pb n="19" facs="tcp:63394:10"/>the latter end of ſuch will be worſe then their beginning: And its ſuch that are compared to Trees twice dead, plucked up by the Roots; and their Conſciences are ſaid to be ſeared as with a hot I<g ref="char:EOLhyphen"/>ron, &amp;c. for ſuch its ſaid, there remains no more Sacrifice for Sin: this Eſtate is lamentable, and little ſhort of the utmoſt Hell; ſeeing the Spirit of God hath ceaſed ſtriving with ſuch for their <hi>Salvation,</hi> and that which they hate will be their <hi>Condemnation.</hi>
+               </p>
+               <p>And there is none that ever did or ſhall ſin themſelves into ſuch a ſtate of Hardneſs and Unſenſibleneſs, as that they ſhall not feel the Reward of Sin ſooner or later; neither ſhall they eſcape the Biting or Gnawing of that Worm that never dyes, nor the Anguiſh of that Fire which the Breath of the Lord kindles; if the Wicked, that hate the Light, could dwell in ſuch Darkneſs, where the Light could not find them, or if they could deſtroy this Gnawing Worm, and extinguiſh or put out this Fire which the Breath of God kindles, then ſhould their Senſibleneſs of Pain and Anguiſh for Sin be at an end; but as they cannot do the one, ſo they cannot eſcape the other. <hi>The Wages of Sin is Death;</hi> even a dy<g ref="char:EOLhyphen"/>ing Death, a ſenſible Death, where the Gnawing Worm will be felt, and the Wicked ſhall be able to lift up their Eyes in Hell, as <hi>Dives</hi> did (when he ſaw <hi>Lazarus</hi> in <hi>Abraham</hi>'s Boſom) and cry for Help in the Sence of their Torment when it is too late, the Gulf being fixed, &amp;c.</p>
+               <p>Opinion. <hi>The Sun may ſhine, and ſome men may ſhut their Eyes, and will not ſee it; and ſome are blind, and cannot ſee it: Are they therefore enlightned by it? So likewiſe, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſw,</hi> The Strength of this Opinion of thine by way of Si<g ref="char:EOLhyphen"/>miles I take to be thus; That though the Sun doth ſhine, yet ſome are not willing, and ſome are not able to ſee the Light of it, and ſo are not or will not be lighted by it; and from hence wouldſt con<g ref="char:EOLhyphen"/>clude (notwithſtanding thy former Conceſſion, viz. <hi>That every man is lighted with a Divine Light) That ſome men have no Light in them, nor are not in a Capacity to receive Benefit by the Light be<g ref="char:EOLhyphen"/>cauſe blind; And others will not come out of the dark C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lls of the Earth, where they have taken up their Habitation, to behold it.</hi>
+               </p>
+               <pb n="20" facs="tcp:63394:11"/>
+               <p>Now the Scriptures bear witneſs, That the Seers or Prophets ſaw Chriſt, the Gift of God, to be the Light of the <hi>Gentiles,</hi> and to be his Salvation to the Ends of the Earth; and there was and is a Call to all the Ends of the Earth, to look unto him and be ſaved; and the <hi>Gentiles</hi> and Ends of the Earth looking unto him, have had, have, and may have Salvation by him: And the Lord deſires not nor wills not the Death of him that dyes, nor the Blindneſs of him that is blind; but would have all men walk in the Light, and come to the Knowledge of his Truth and be ſaved: He bids or com<g ref="char:EOLhyphen"/>mands no men to Hear, See or Walk, when he hath not given them Ears, Eyes and Ability ſo to do: He calls to all men every where to Repent; and he hath afforded them Light and Grace ſuf<g ref="char:EOLhyphen"/>ficient to enable them ſo to do, if they would believe in it and o<g ref="char:EOLhyphen"/>bey it: He ſhuts no man's Eyes, neither is he the Author of any man's Blindneſs, Wilfulneſs and Stubbornneſs: It's man's own Sin that ſeparates man from his Maker; and blinds his Eye, and ſtreng<g ref="char:EOLhyphen"/>thens his Will, that he cannot and will not ſee the Light when it ſhines in him, ſo as to be ſaved by it, and to walk in it; though he hath in this blind ſinful State ſo much Sight, Senſe and Knowledge of it, as to feel its Reproofs and Convictions (<hi>John</hi> 3.20.) <hi>So e<g ref="char:EOLhyphen"/>very one that doth Evil hates the Light, and cometh not to it, leſt his Deeds ſhould be reproved;</hi> yet the Light cometh to ſuch, and follows ſuch, and finds them out, as it did <hi>Adam</hi> in the beginning. And none can be ſaid to hate that which they have not, nor never had no Senſe nor Knowledge of, nor be juſtly reprehended for not loving it, and not coming to it, and not bringing their Deeds to it, if they have not Ability, or are not in a Capacity ſo to do.</p>
+               <p>Therefore thy comparing Natural things with Spiritual will not hold true every way, nor thy Concluſions therefrom: Some indeed are ſaid to ſtop their Ears, and to cloſe their Eyes, and to ſtumble and grope like blind men for the Wall, yet God is not the Author of this, neither did he make Mankind in this Eſtate; but this is come upon him through his own Tranſgreſſion and Diſobedience to the Law, which is Light, which was before Books or an outward Law was writ<g ref="char:EOLhyphen"/>ten, which while he obeyed and walked in, he enjoyed the Preſence of God who gave it, and lived in the Light of his Countenance; but when he tranſgreſſed, he dyed as to that Enjoyment (though
+<pb n="21" facs="tcp:63394:11"/>be lieved and remained in the Body as a man) and here began Man<g ref="char:EOLhyphen"/>kind to hate the Light, and to walk in Darkneſs, and to endea<g ref="char:EOLhyphen"/>vour to hide himſelf for Fear, and to cover his own Nakedneſs with the Works of his own Pands: Now was laid the Foundati<g ref="char:EOLhyphen"/>on of all Self-Will, Self Works, Self Righteouſneſs, Self-know<g ref="char:EOLhyphen"/>ledge and Imagination; from this Foundation Chriſt, the Lamb of God, was ſlain (he that reads let him underſtand.) And Man<g ref="char:EOLhyphen"/>kind in this Eſtate is accounted Dead, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaf, Blind and Naked, becauſe that Life, Eye, Ear, and Covering be hath, is of his own or<g ref="char:EOLhyphen"/>dering and making; and he is truly Dead, whill be thinks he Lives; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaf and Blind, while he thinks he Hears and Sees; and Naked n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>twithſtanding his Invented Artificial Coverings: And Darkneſs he may truly be called, notwithſtanding there is a Light that ſhineth in him in this Dead, Dark and Blind Eſtate, where<g ref="char:EOLhyphen"/>with alſo he is lighted in ſome ſheaſtre, and by it may ſee his loſt Eſtate.</p>
+               <p>And Mankind in Tranſgreſſion may hear the Voice of God now, as <hi>Adam</hi> did in the beginning, but how men do hear the Voice of God while Shiners; and how they are afraid of his Appearance or Preſence; and how Light ſhines in Darkneſs, though Darkneſs comprehends it not; and how men are lighted with a ſaving Light of Chriſt, and yet walk in Darkneſs, and are not ſaved by it; and how the Word is as Milk and Honey, and Bread to ome, and as a Hammer Fire and Sword to others, is a Myſtery to the carnal Mind, though plain to the Children of Light, and evidently declared in the Holy Scriptures.</p>
+               <p>For the ſame Light which is the Condemnation of the World (whom it lighteth) which it hates, and believes not in, is the Sal<g ref="char:EOLhyphen"/>vation of thoſe that believe, leve and walk in it. Now that which leads men to do the Will of Chriſt, gives them the Knowledge of his Doctrine, and reveals his Secrets to them; but the Wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and Prudent in the ſelfiſh <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enſual Widem, which believes not in the Light of Chriſt, wherewith every man is lighted, remains igno<g ref="char:EOLhyphen"/>rant thereof.</p>
+               <pb n="22" facs="tcp:63394:12"/>
+               <p>Opinion. <hi>I will ſtick by the preſent Tranſlation of the New Teſtament, which was effected by Twenty or Thirty Lear<g ref="char:EOLhyphen"/>ned Wiſe Men, by the King's Authority; and if I underſtood</hi> Greek <hi>never ſo well, it would be unmannerly to contradict them.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Surely if thou hadſt been ſo mannerly, and ſo full of Reverence and Reſpect to Learned Wiſe Men, who were counte<g ref="char:EOLhyphen"/>nanced with the National Authority when thou firſt tookeſt up thy Religion, or turned <hi>Baptiſt</hi> (and thereby contradicted the O<g ref="char:EOLhyphen"/>pinions and Meanings of more then Twenty or Thirty Wiſe Lear<g ref="char:EOLhyphen"/>ned Men, who in their Wiſdoms had ſetled Church-Government and Doctrine, as they thought, according to the Scriptures) thou wouldſt never have adventured to queſtion their Work, though thou kneweſt better things: I judge thou hadſt more ſincerity, Zeal and Knowledge then, and leſs of this kind of Mannerlineſs, when thou didſt judge they erred in their Meanings put upon the Scrip<g ref="char:EOLhyphen"/>tures tranſlated, though they were reputed Learned and Wiſe. And why may not the Tranſlators commit an Error alſo, and be ſhort in giving every Word its ſull Signification, according to the Mind of the Spirit from whence it came, though the King's Authority be with them? Doth the Knowledge of Naturel Tongues make men Inſallible? May not a <hi>Peter</hi> and <hi>John,</hi> who know not a Let<g ref="char:EOLhyphen"/>ter, know the Mind of the Spirit in the Scriptures? or underſtand them better then the <hi>Scribes, Phariſees</hi> and <hi>Hypoerites?</hi>
+               </p>
+               <p>Indeed <hi>Jeremiah,</hi> I muſt tell thee, This Mannerlineſs would have kept thee out of thy Religion; and will now, if thou follow it, lead thee to out-live it, or to differ nothing from thoſe thou comeſt out from, but in Name and Profeſſion only.</p>
+               <p>Opinion. <hi>The Light that is come into the World was de<g ref="char:EOLhyphen"/>ſigned of God to enlighten every man; but Thouſands are not enlightened by it.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Its ſomething that thou granteſt ſo much Truth, <hi>viz.</hi>
+                  <pb n="23" facs="tcp:63394:12"/>That God deſigned all men a Benefit by the Light, though Thou<g ref="char:EOLhyphen"/>ſands receive it not: 'Tis true, the Love of God is Univerſal; and his Call is to all men every where to Repent; and his Goſpel, which <hi>Paul</hi> was a Miniſter of (<hi>Coll.</hi> 1.23.) was and is preached in every Creature under Heaven; his Sun ſhines and his Rain falls upon the Juſt and Unjuſt: But many, though they hear his Call, Re<g ref="char:EOLhyphen"/>pent not; and though the Goſpel be ſounded in their Ear, obey it not; and the Wicked may become like a Parched Heath, that knows not when Good comes, though the Dew of Heaven de<g ref="char:EOLhyphen"/>ſcend upon it, and the Seed of the Kingdom be ſown in it, yet it grows not to Perfection: The Seed is ſown in Bad Ground, as well as in Good; and Chriſt is as truly the Light of the World, as he is the Light of the Saints, who are choſen out of the World: the Difference is in its Operation; it reproves and condemns the World, becauſe its Deeds are Evil; and it juſtifies and conſolates the Saints, who believe in it, and walk in it, &amp;c.</p>
+               <p>Now how it can be ſaid, that every man is lighted or enlighten<g ref="char:EOLhyphen"/>ed with the Light of Chriſt, notwithſtanding they remain Dark<g ref="char:EOLhyphen"/>neſs, ſeems a Riddle and Paradox to the Learned and Unlearned, Profeſſors and Prophane: And if that Scripture which ſaith, <hi>The Light ſhined in the Darkneſs, and the Darkneſs comprchended it not,</hi> cannot be underſtood, I cannot ſpeak plainer to this Spirit that ſtumbles at the Light; For if Light ſhineth in a People, who were and are Darkneſs, how can it be ſaid that that People are not en<g ref="char:EOLhyphen"/>lightened by it, though they love the Darkneſs rather, and ſo chuſe Death and Darkneſs, and refuſe Life and Light: And how can it be ſaid, That Mankind makes a Choice, except he hath ſome Knowledge of both? So, which he joyneth to, and walketh in, that he becomes a Child of, whether of Darkneſs or Light? And the Condemnation of thoſe who hate the Light, and love the Dark<g ref="char:EOLhyphen"/>neſs, will be juſt, and God and Chriſt will be clear in the Day of his Judgment.</p>
+               <p>Opinion. George Whitehead <hi>and</hi> William Gibſon <hi>are not enlightened with the Light of Chriſt; though I grant, that there is a Light in every man, which is Divine, yet not the Light of Chriſt.</hi>
+               </p>
+               <pb n="24" facs="tcp:63394:13"/>
+               <p>
+                  <hi>Aaſ.</hi> If <hi>J. Ives</hi> did believe in the Light, &amp; were obedient to the Light of Chriſt, wherewith he himſelf is lighted, he would be of ano<g ref="char:EOLhyphen"/>ther Mind, but this ſore Evil is very nigh him, <hi>to conclud<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, as the</hi> Jews <hi>did of Chriſt in another Caſe, If this Man were of God he would keep the Sabbath</hi> (Joh. 9.16.) So it ſeems to be in this Mans Mind, to con<g ref="char:EOLhyphen"/>clude, that theſe Men are not enlightned with the Light of Chriſt, becauſe they are not <hi>Baptiſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> as he is, and are not one with his Pro<g ref="char:EOLhyphen"/>feſſion and Fellowſhip: for it is the Nature and Property of every Sect, to mea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure and judge all by their own narrow Spirits and No<g ref="char:EOLhyphen"/>tions; the Righteous met with this Mea ure and Judgment in all Ages, from <hi>Ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> to <hi>Zacharias,</hi> and from <hi>Zacharias</hi> to <hi>John</hi> the Divine, and down to this Age. M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ltitude of Examples might be pro<g ref="char:EOLhyphen"/>duced, and a Cloud of Witneſſes found throughout the holy Scrip<g ref="char:EOLhyphen"/>tures to witneſs to this Thing.</p>
+               <p>But <hi>G. W.</hi> and <hi>W. G.</hi> are not only men come into the World, and therefore lighted with the Light of Chriſt, according to the Teſtimony of <hi>John</hi> (the greateſt Prophet that was born of a Wo<g ref="char:EOLhyphen"/>man) but alſo are Men choſen out of the World, to bear Witneſs to the true Light, and have turned the Minds of many from Dark<g ref="char:EOLhyphen"/>neſs to the true Light, in which they walk, and dwell, and are Children of: Therefore thy Opinion or Conceit is judged to be the Off-ſpring of that Darkneſs in which thou dwelleſt, notwith<g ref="char:EOLhyphen"/>ſtanding thou talkſt of Light, and ſuppoſeſt thy ſelf to be a Child of it; but ſee whether the Spirit of God, or the Manifeſtation of it in thee bears Witne's to thy Spirit, that thou art indeed what thou thinkeſt and profeſſeſt thy ſelf to be: This Counſel, if by thee taken can do thee no Harm. As to the latter part of this Notion, I have ſpoken to it already.</p>
+               <p>Opinion. <hi>I d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ny that the Light of God is one with the Light of Chriſt; the Father and Son are Relatives, but not one; the Light of the Father, Son and Spirit are Divine, but not one.</hi>
+               </p>
+               <p>If thou hadſt the Mind of Chriſt, as the primitive <hi>Chriſtians</hi> had, thou wouldſt not ſpeak after this manner: Chriſt's Teſtimony was, (<hi>John</hi> 14.9, 10, 11.) <hi>That he and his Father were one</hi> (And what ſig<g ref="char:EOLhyphen"/>nifies thy Denyal?) <hi>And that the Father was in him, and he in the Father.</hi> And <hi>John</hi>'s witneſſeth (<hi>John</hi> 1.) <hi>That the World was made
+<pb n="25" facs="tcp:63394:13"/>by him, and without him was nothing made that was made: And he was in the Beginning with the Father from Everlaſting; glorified with the Father before the World began; manifeſted in the fulneſs of time in a prepared Body;</hi> but was before it, and ſeen and propheſied of by the Evangelical Prophet <hi>Iſaiah</hi> to be <hi>the Wonderful Counſellor, the Mighty God, the Everlaſting Father, the Prince of Peace, the</hi> E<g ref="char:EOLhyphen"/>manuel, <hi>God with us.</hi> In theſe Scriptures their Names are <hi>one,</hi> their Work <hi>one,</hi> their Nature <hi>one;</hi> then how comes their Light to be <hi>two,</hi> and yet both <hi>Di<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ine?</hi> And they are ſuch Relatives as differ more in <hi>Manifeſtation</hi> and <hi>Deſpenſation,</hi> then in <hi>Light, Life, Nature</hi> and <hi>Being;</hi> but theſe things are too high for thee; for what thou know<g ref="char:EOLhyphen"/>eſt of them is Natural and Traditional, and hadſt thou Acquaintance with a Meaſure of the ſame <hi>Spirit of Prophecy</hi> which was in <hi>Iſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iah,</hi> thou wouldſt be aſhamed of thy nice and carnal Diſtinctions; yet the leaſt in the Kingdom is greater then he.</p>
+               <p>Opinion. <hi>That which is Divine in God, becomes Natural when given to men.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> I know not but thou mayſt be called the Father of this Whin ſey or Vain Conceit. Whiſher will the Deceitfulneſs of thy fooliſh Heart carry thee? 'Tis ſtrong Deluſion indeed to believe Lyes ſo contrary to Scripture and Right Reaſon. Where didſt thou learn, <hi>that the Gifts of God, which are Perfect, Divine and Spiri<g ref="char:EOLhyphen"/>tual, become Natural when given to Men?</hi> I ſuppoſe by <hi>men</hi> thou meanſt not <hi>all men,</hi> but <hi>wicked men,</hi> and not the <hi>righteous;</hi> that would be groſs and abſurd indeed; ſo I am willing to take thy Notion by the beſt End: But what Scripture is thy Rule for this? Did the <hi>Talent</hi> the Sloathful Man had given him change its Na<g ref="char:EOLhyphen"/>ture and Property by being ty'd up and hid in the Earth? Did his <hi>Good Spirit,</hi> which he gave to thoſe that rebell'd againſt it, become Natural? Doth the Light, which is the Gift of God, and Spiritu<g ref="char:EOLhyphen"/>al, which ſhineth in Darkneſs, become Natural or Darkneſs in it ſelf, or alter its Nature and Property? Doth the Spirit of Truth, which Chriſt ſends to Comfort his Diſciples, and to convince and reprove the World for Sin, change its Nature from being the <hi>Spirit of Truth,</hi> becauſe ſent and given into the World? Surely thou mayſt ſee it a <hi>vain Imagination of thy own Head,</hi> that neither the <hi>Scriptures</hi>
+                  <pb n="26" facs="tcp:63394:14"/>(thy <hi>pretended Rule</hi>) nor thy own <hi>Experience</hi> can juſtifie: For that <hi>holy Manifeſtation</hi> of the <hi>Spirit</hi> in thee, which ſearcheth thy Heart, and tryeth thy Reins, and conſenteth not to thy <hi>vain Thoughts, idle Words</hi> and <hi>ſinful Actions,</hi> is the Gift of God to thee, and is <hi>perfect, pure, divine</hi> and <hi>ſpiritual,</hi> and hath kept its Nature pure and uncorrupt, and will remain ſo, as a <hi>Witneſs for God againſt thee, if thou joyn not to it, and become one with it, and ſo be born of it:</hi> This is the Word of Truth to thee, whether thou wilt receive it or no.</p>
+               <p>Opinion. <hi>Some in the World are without Chriſt; there<g ref="char:EOLhyphen"/>fore ſome in the World are without the Light of Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> This is anſwered already in what goes before, yet a few words more: Chriſt is ſaid to ſtand at the Door of mens Hearts and Knock; Is not the Door of men's Hearts within them? And if he ſtands there, he is not far off them; yet they not opening to him, are ſaid, and that truly, to be without him, and in the World; and they do not know that Chriſt is in them, therefore they are Reprobates: Yet in this ſtate of being without Chriſt in the World, in Darkneſs and Reprobation, the true Light ſhineth, as hath been already ſignified at large; and the Darkneſs is ſo far enlightened by it, as that the Worker of Iniquity cannot hide himſelf.</p>
+               <p>And though ſome are without God in the World, yet God is not ſo far without them, but that he ſearcheth their Hearts, and tryeth their Reins, and ſheweth unto man his Thoughts, and God &amp; Chriſt is in the World; but this is the Miſery of the World, that it knows him not. Bleſſed are thoſe that believe in the Light, which revea<g ref="char:EOLhyphen"/>leth him, and leads to the Knowledge of him, in whom are hid all the Treaſures of Wiſdom and Knowledge; to whom be Glory forever, <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <signed>W. S.</signed>
+               </closer>
+            </div>
+            <div type="commentary">
+               <pb n="27" facs="tcp:63394:14"/>
+               <head>Foraſmuch as <hi>J. Ives</hi> and ſome others judge we put more Weight, and ſtrain that Saying in the firſt of <hi>John,</hi> verſ. the 9th, beyond what it is able to bear, this following is added.</head>
+               <p>OUr Proof of what we affirm in matter of Doctrine, is not from the Etymology of Words, nor barely from the Teſtimony of the Holy Men recorded in the holy Scriptures, though they bear witneſs thereto: And our Doctrine, Practices and whole Converſation (as we walk in that Light, Grace and Spirit of God, from whence holy Men wrote them) is born witneſs unto by them; and therein we have Unity with the Holy Scriptures, and receive the Comfort of them, they being written for our Learning, who have believed in and received the Gift of God, of whom they teſtifie.</p>
+               <p>And others, who receive not this Gift of God, though they may read and profeſs the Scriptures, and cry them up in words, &amp;c. yet have they not Unity with them, nor with the Spirits of thoſe Juſt Men that wrote them; neither do receive the Comfort of them, nor are learned and made wiſe unto Salvation by them: This is a Word of Truth, that may and doth concern all Sects in <hi>Chriſten dom</hi> to confider.</p>
+               <p>And that we do not over-ſtrain the Words of <hi>John</hi>'s Teſtimony in the firſt Chapter and 9th Verſe, when we ſay, write, print and preach, <hi>Lighten, Enlighten, Enlighteneth</hi> or <hi>Giveth Light to every man coming into the World;</hi> I have here ſet before thee how that Verſe is read in divers Natural Tongues or Languages.</p>
+               <p>The <hi>Latin</hi> Verſion to the <hi>Syriack</hi> hath it thus (the <hi>Syriack</hi> word is Manhar) <hi>Erat enim is lux veritatis quae illuminat omnem ho<g ref="char:EOLhyphen"/>minem venientem in mundum.</hi>
+               </p>
+               <p>The Engliſh, <hi>For even he was the Light of Truth, which enligh<g ref="char:EOLhyphen"/>teneth every man that cometh into the World.</hi>
+               </p>
+               <pb n="28" facs="tcp:63394:15"/>
+               <p>The <hi>Latin</hi> Verſion to the <hi>Porſiack</hi> thus, <hi>Lux vera venit unicui<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> qui in mu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> do eſt lumen praebeat.</hi>
+               </p>
+               <p>Thus in <hi>Engliſh, The true Light is come to give Light to every one that is in the World</hi>
+               </p>
+               <p>
+                  <hi>Elias Huter</hi> in his <hi>Novum Teſtamentum Harmonicum,</hi> uſeth the word <hi>Illuminat</hi> Enlighteneth.</p>
+               <p>And in Hs <hi>Doctionary</hi> the <hi>Greek</hi> word is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Photizein, <hi>to give Light</hi> or <hi>lighten.</hi>
+               </p>
+               <p>The <hi>Hebrew</hi> word is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Haer, <hi>to give Light</hi> or <hi>lighten.</hi>
+               </p>
+               <p>The <hi>High Dutch,</hi> Leuchten, <hi>to gave Light</hi> or <hi>lighten.</hi>
+                  <list>
+                     <item>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Heir, <hi>to Enlighten.</hi>
+                     </item>
+                     <item>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Epiphainein, <hi>to Enlighten.</hi>
+                     </item>
+                     <item>Illuminare, <hi>to Enlighten.</hi>
+                     </item>
+                     <item>
+                        <hi>High-Dutch</hi>—Erleuchten, <hi>to Enlighten.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>In the <hi>Arabick</hi> thus, <hi>Ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vero erat ipſe lux, ſedut teſtaretur lumini, qued erat lumen verum quod <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lluminat <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi> The word is [Paſijo] <hi>illuminat, enlighteneth,</hi> or <hi>doth enlighten,</hi> or <hi>gi<g ref="char:EOLhyphen"/>veth Light.</hi>
+               </p>
+               <p>In <hi>Engliſh</hi> thus, <hi>Neither was he himſelf the Light, but that he might witneſs to the Light, which was the true Light which enlighteneth, every man.</hi>
+               </p>
+               <p>The <hi>Ethiopick</hi> has it thus (the word is <hi>Zajabarh</hi>) <hi>Et is eſt lux ju<g ref="char:EOLhyphen"/>ſtitiae quae illuminat om<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m hominem veniontem in mundum.</hi>
+               </p>
+               <p>In Engliſh, <hi>And he is the Light of Righteouſneſs which enlighten<g ref="char:EOLhyphen"/>eth or doth <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lighten every man that cometh into the World.</hi>
+               </p>
+               <p>Multitudus of Examples might be produceed out of other Tranſ<g ref="char:EOLhyphen"/>lations, but ſufficient being extant already by another Pen, I for<g ref="char:EOLhyphen"/>bear to enlarge.</p>
+               <p>I have ravelled in <hi>Europe, Africa</hi> and <hi>Amcrica,</hi> and never met with any Prieſt or other (except one called a <hi>Baptiſt</hi> in <hi>Rhed-Iſland</hi> in <hi>New-England</hi>) that made any Cavil or Contention about uſing the word <hi>enlighten,</hi> or <hi>enlighteneth</hi> or <hi>giveth Light,</hi> &amp;c. inſtead of <hi>lighteth.</hi>
+               </p>
+               <closer>
+                  <signed>J. S.</signed>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:63394:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
